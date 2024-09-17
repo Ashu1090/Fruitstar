@@ -91,7 +91,7 @@ li,a:hover{
 
 .box{
     margin: 15px;
-    width: 210px; 
+    width: 215px; 
     border-color: rgb(57, 57, 65);
     border-width: 2px;
     border-style: solid;
@@ -201,7 +201,7 @@ tr{
 
 
 img{
-    height: 210px;
+    height: 200px;
     width: 210px;
 }
 
